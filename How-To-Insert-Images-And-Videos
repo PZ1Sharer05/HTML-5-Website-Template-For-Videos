@@ -1,0 +1,12 @@
+# How to Insert a Youtube Video in The Website
+To do so, in  youtube.com,  select the video that you want to put in the website. Then, click share.
+After clicking share, make sure you choose 'Embed', copy the code written there and paste it onto the template so your site gets awesome.
+This does not include the CSS Design so sorry designers, but you can customize it anyway you want. Its just a template.
+
+# How to Insert an Image in the Website
+To insert an image, find the image in google.com and choose the image. Select the image source. You can find it on the adress bar. After that, in the template file type in:
+<br><img src = "ThePicture">
+
+
+NOTE 
+The br command just gives a new line. If you do not want an image in a new line, then remove the <br> tag.
